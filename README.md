@@ -8,8 +8,12 @@ If you came here for schematics, firmware, and instructions keep reading...
 
 ## Schematics
 
+<img src="https://raw.githubusercontent.com/TomasBouda/KeypadX/master/Schematics/KeypadX_v1.png" />
+
 ## Firmware
 
-## Instructions
+<a href="https://github.com/TomasBouda/KeypadX/blob/master/FW/keypad.ino">Latest arduino code</a>
 
 ## Application
+
+<a href="http://keypadx.com/Home/Downloads">Download windows app</a>
