@@ -1,6 +1,6 @@
 # KeypadX - Ultimate Macro Keyboard  [![Discord](https://img.shields.io/badge/chat-on%20discord-orange.svg)](https://discord.gg/XcEnkQh)
 
-It's a little keyboard that you plug into your computer and it can automate almost everything you can imagine. 
+It's little keyboard that you plug into your computer and it can automate almost everything you can imagine. 
 
 <a href="http://keypadx.com/">Find out more</a>
 
