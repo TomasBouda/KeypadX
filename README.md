@@ -1,3 +1,5 @@
+> **Discontinued** 😭
+
 # KeypadX - Ultimate Macro Keyboard  [![Discord](https://img.shields.io/badge/chat-on%20discord-orange.svg)](https://discord.gg/XcEnkQh)
 
 It's little keyboard that you plug into your computer and it can automate almost everything you can imagine. 
@@ -17,3 +19,5 @@ TODO
 ## Application
 
 TODO
+
+https://www.instagram.com/p/Bq21tlvnHLv
